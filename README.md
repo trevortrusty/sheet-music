@@ -3,4 +3,6 @@ Database of Gallowstreet Sheet Music. I do not represent Gallowstreet nor own th
 
 ## Sheet Music Musescore Project Downloads
 ---
-[Diesel](https://github.com/trevortrusty/gallowstreet/raw/master/Diesel.mscz)
+Musescore Download | Musescore Link | PDFs
+-------------------|----------------|------
+[Diesel](https://github.com/trevortrusty/gallowstreet/raw/master/Diesel.mscz) | None | None
