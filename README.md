@@ -3,6 +3,7 @@ Database of Gallowstreet Sheet Music. I do not represent Gallowstreet nor own th
 
 ## Sheet Music Musescore Project Downloads
 ---
+
 Musescore Download | Musescore Link | PDFs
 -------------------|----------------|------
 [Asterix](https://github.com/trevortrusty/gallowstreet/raw/master/Asterix.mscz) | None | None
