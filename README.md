@@ -1,4 +1,3 @@
-# Sheet Music Arrangements
 
 ## Sheet Music Musescore Project Downloads
 ---
