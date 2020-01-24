@@ -7,9 +7,9 @@ Database of Gallowstreet Sheet Music. I do not represent Gallowstreet nor own th
 |Musescore Download | Musescore Link | PDFs
 |-------------------|----------------|------
 |[Asterix](https://github.com/trevortrusty/gallowstreet/raw/master/Asterix.mscz) | None | None
-|[Battleplan](https://github.com/trevortrusty/gallowstreet/raw/master/Battleplan.mscz) | None | None
 [Contraband](https://github.com/trevortrusty/gallowstreet/raw/master/Contraband.mscz) | None | None
 [Diesel](https://github.com/trevortrusty/gallowstreet/raw/master/Diesel.mscz) | None | None
+[Dilladis](https://github.com/trevortrusty/gallowstreet/raw/master/Dilladis.mscz) | None | None
 [Etna](https://github.com/trevortrusty/gallowstreet/raw/master/Etna.mscz) | None | None
 [Fisticuffs](https://github.com/trevortrusty/gallowstreet/raw/master/Fisticuffs.mscz) | None | None
 [Glitterbox](https://github.com/trevortrusty/gallowstreet/raw/master/Glitterboxl.mscz) | None | None
