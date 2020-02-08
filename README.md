@@ -7,6 +7,7 @@
 |-------------------|----------------|------
 |[Asterix](https://github.com/trevortrusty/gallowstreet/raw/master/Asterix.mscz) | None | None
 [Contraband](https://github.com/trevortrusty/gallowstreet/raw/master/Contraband.mscz) | None | None
+[Delorean Cowboy](https://github.com/trevortrusty/gallowstreet/raw/master/DeLorean_Cowboy.mscz) | [Musescore](https://musescore.com/m6bb/delorean-cowboy) | [Zip](https://github.com/trevortrusty/gallowstreet/raw/master/parts/Delorean.zip)
 [Diesel](https://github.com/trevortrusty/gallowstreet/raw/master/Diesel.mscz) | None | None
 [Dilladis](https://github.com/trevortrusty/gallowstreet/raw/master/Dilladis.mscz) | None | None
 [Etna](https://github.com/trevortrusty/gallowstreet/raw/master/Etna.mscz) | None | None
